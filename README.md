@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariasbrenno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block; align:center;"><br>
+<div style="display: flex; align-itmes:center; border: 1px solid;"><br>
   <img style="align:center; width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img style="align:center; width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img style="align:center; width:40px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
