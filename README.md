@@ -24,7 +24,7 @@
   
 <div align="center">
   <a href="https://www.linkedin.com/in/brenno-farias-8a140224a/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://brenno.developer@gmail.com" target="_blank"><img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   
+  <a href="mailto:brenno.developer@gmail.com" target="_blank"><img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   
 </div>
 
  
